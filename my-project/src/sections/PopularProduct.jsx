@@ -3,7 +3,7 @@ import { products } from "../constants"
 
 const PopularProduct = () => {
   return (
-    <section id="producs"
+    <section id="products"
     className="max-container max-md:mt-13">
       <div className="flex flex-col justify-start gap-6">
         <h2 className="text-4xl font-palanquin font-bold">Our 

@@ -23,6 +23,11 @@
   }
 }
 
+
+.mobile-nav{
+  @apply fixed top-10 left-0 bg-gray-600 w-full h-1/5 ;
+}
+
 @layer utilities {
   .padding {
     @apply sm:px-16 px-8 sm:py-24 py-12;
